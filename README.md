@@ -1,3 +1,3 @@
 # medical-store-management-system
-npm install
+npm install &
 npm run dev
