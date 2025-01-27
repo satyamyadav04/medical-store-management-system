@@ -1,0 +1,9 @@
+{
+  "name": "medicalstore",
+  "version": "1.0.0",
+  "description": "Dashboard",
+  "scripts": {
+    "start": "npx --yes serve",
+    "dev": "npx --yes serve"
+  }
+}
